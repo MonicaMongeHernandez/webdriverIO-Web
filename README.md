@@ -6,7 +6,8 @@
 
 - By: Mónica Monge Hernández (May 2024)
 - [Linkedin profile](https://www.linkedin.com/in/mónica-monge-hernández)
-- [GitHub page](https://monicamongehernandez.github.io/webdriverio-web)
+- [GitHub profile](https://monicamongehernandez.github.io/profile/)
+- [GitHub documentation](https://monicamongehernandez.github.io/webdriverio-web)
 - [GitHub code](https://github.com/MonicaMongeHernandez/webdriverio-web)
 
 ## Description
