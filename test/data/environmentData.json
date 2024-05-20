@@ -1,0 +1,16 @@
+{
+  "urls": {
+    "sauce": "https://www.saucedemo.com/",
+    "qa": "https://qavbox.github.io/demo/"
+  },
+  "paths": [
+    {
+      "env": "sauce",
+      "path": "./test/specs/saucedemo/**/*.ts"
+    },
+    {
+      "env": "qa",
+      "path": "./test/specs/qavbox/**/*.ts"
+    }
+  ]
+}
