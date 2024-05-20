@@ -112,7 +112,7 @@ describe('Souce application E2E validation', () => {
 
   });
 
-  it('Should login fail (negative scenariop) validation.', async () => {
+  it('Should login fail (negative scenario) validation.', async () => {
 
     AllureReporter.addFeature('======= Env Login page ======');
     AllureReporter.addSeverity('Critical');

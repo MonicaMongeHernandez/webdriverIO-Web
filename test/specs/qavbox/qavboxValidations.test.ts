@@ -47,7 +47,7 @@ describe('QAvbox page validations', () => {
     AllureReporter.addStep('Scroll to Tutorial Link - Center view');
     await SignUp.scrollToTutorialLink();
 
-    AllureReporter.addStep('Scroll to Home button');
+    AllureReporter.addStep('Scroll to File button');
     await SignUp.scrollToFileBtnCenterView();    
   });
 
