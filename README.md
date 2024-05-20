@@ -23,13 +23,13 @@ Validate an E2E flow and specific UI validations using API for validating broken
 
 ## Explanation of Technologies and Design Patterns
 
-**Node.js**: Serves as the runtime environment for JavaScript on the server.<br>
-**WebdriverIO**: The primary tool for browser automation.<br>
-**Mocha**: The testing framework used alongside WebdriverIO.<br>
-**TypeScript**: programming language.<br>
-**Allure**: A reporting tool that integrates with WebdriverIO to provide visual test reports in HTML.<br>
-**Page Object Model (POM)**: A design pattern that enhances test maintenance and reduces code duplication by creating an abstraction of web pages in separate classes. The classes represent the web pages, encapsulating the elements and their interactions, selectors/locators, constants, and methods on the web pages.<br>
-**Chrome**: as browser used throughout the testing.<br>
+- **Node.js**: Serves as the runtime environment for JavaScript on the server.<br>
+- **WebdriverIO**: The primary tool for browser automation.<br>
+- **Mocha**: The testing framework used alongside WebdriverIO.<br>
+- **TypeScript**: programming language.<br>
+- **Allure**: A reporting tool that integrates with WebdriverIO to provide visual test reports in HTML.<br>
+- **Page Object Model (POM)**: A design pattern that enhances test maintenance and reduces code duplication by creating an abstraction of web pages in separate classes. The classes represent the web pages, encapsulating the elements and their interactions, selectors/locators, constants, and methods on the web pages.<br>
+- **Chrome**: as browser used throughout the testing.<br>
 
 ## Scenarios
 
