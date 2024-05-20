@@ -11,7 +11,7 @@
 
 ## Description
 
-This suite of testing was implemented for automation Web application, UI testing and API with the page object model (POM) design pattern and mocha as a test framework using typescript.
+This suite of testing was implemented for the automation Web applications, UI testing, and API with the page object model (POM) design pattern and mocha as a test framework using typescript.
 
 ### Video link
 
@@ -19,21 +19,21 @@ In the following link, you can find a video that demonstrates the execution, set
 
 ## Goal
 
-Validate an E2E flow and specific UI validations using API for validating broken links, environment variables to run specific pages, JSON to get urls and specs paths according to console parameters and demonstrate a good understanding of the framework and technologies. Some scenarios discussed in the interview were covered.
+Validate an E2E flow and specific UI validations using API for validating broken links, environment variables to run specific pages, JSON to get URLs and specs paths according to console parameters, and demonstrate a good understanding of the framework and technologies. Some scenarios discussed in the interview were covered.
 
 ## Explanation of Technologies and Design Patterns
 
-**Node.js**: Serves as the runtime environment for JavaScript on the server.
-**WebdriverIO**: The primary tool for browser automation.
-**Mocha**: The testing framework used alongside WebdriverIO.
-**TypeScript**: programming language.
-**Allure**: A reporting tool that integrates with WebdriverIO to provide visual test reports in html.
-**Page Object Model (POM)**: A design pattern that enhances test maintenance and reduces code duplication by creating an abstraction of web pages in separate classes. The classes represent the web pages, encapsulating the elements and their interactions, selectors/locators, constantas and methods on the web pages.
-**Chrome**: as browser used throughout the testing.
+**Node.js**: Serves as the runtime environment for JavaScript on the server.<br>
+**WebdriverIO**: The primary tool for browser automation.<br>
+**Mocha**: The testing framework used alongside WebdriverIO.<br>
+**TypeScript**: programming language.<br>
+**Allure**: A reporting tool that integrates with WebdriverIO to provide visual test reports in HTML.<br>
+**Page Object Model (POM)**: A design pattern that enhances test maintenance and reduces code duplication by creating an abstraction of web pages in separate classes. The classes represent the web pages, encapsulating the elements and their interactions, selectors/locators, constants, and methods on the web pages.<br>
+**Chrome**: as browser used throughout the testing.<br>
 
 ## Scenarios
 
-Two sites were selected to perform the testing. Happy and negative paths were implemented, and in the future, more additions will be made like, CI/CD with GitHub actions (file was added - structure -), and integration with BrowserStack.
+Two sites were selected to perform the testing. Happy and negative paths were implemented, and in the future, more additions will be made like CI/CD with GitHub actions (file was added - structure -), and integration with BrowserStack.
 
 All the test cases are automated by the scripts.
 
@@ -67,7 +67,7 @@ Note: The following test cases are as an overview. Consider that in a formal sce
 13. Click on the button “Checkout”
 14. Fill out the form, First Name: “Joe” and Last Name: “Smith”, Zip/Postal Code: "30105"
 15. Click on the button Continue
-16. Validate the number of articles (2) is the same as the number displayed in the shopping cart at the top the page in the right corner (2).
+16. Validate the number of articles (2) is the same as the number displayed in the shopping cart at the top of the page in the right corner (2).
 17. Click on the button “Finish”
 18. Validate the page message is “Thank you for your order!”.
 19. Validate the current URL. It should be https://www.saucedemo.com/checkout-complete.html
@@ -154,7 +154,7 @@ Note: The following test cases are as an overview. Consider that in a formal sce
   _For Qavbox page_<br>
   `Env=sauce npm run wdio`<br>
 
-  If you execute the above flow and you want to excecute it again, please delete allure folders, because it acumulate all the excecutions. Delete all foldes from `...\reports\allure`
+  If you execute the above flow and want to execute it again, please delete the allure folders, because it accumulates all the executions. Delete all folders from `...\reports\allure`
 
 _Optional_
 
