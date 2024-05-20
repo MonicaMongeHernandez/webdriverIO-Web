@@ -33,7 +33,7 @@ Validate an E2E flow and specific UI validations using API for validating broken
 
 ## Scenarios
 
-Two sites were selected to perform the testing. Happy and negative paths were implemented, and in the future, more additions will be made like CI/CD with GitHub actions (file was added - structure -), and integration with BrowserStack.
+Two sites were selected to perform the testing. Happy and negative paths were implemented, and in the future, more additions will be made like CI/CD with GitHub actions (file was added - structure -), and integration with BrowserStack. If the test case fail Allure takes a screenshot.
 
 All the test cases are automated by the scripts.
 
