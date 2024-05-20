@@ -18,8 +18,7 @@ This testing suite was implemented for the automation Web applications, UI testi
 
 ### Video link
 
-In the following link, you can find a video that shows the set-up, execution, and explanation of the scenarios, results, and more. [Video link]
-(https://drive.google.com/file/d/1nGKwPSnLPr3zGblwDM3rPzXXIEHEud1L/view?usp=drive_link)
+In the following link, you can find a video that shows the set-up, execution, and explanation of the scenarios, results, and more. [Video link](https://drive.google.com/file/d/1nGKwPSnLPr3zGblwDM3rPzXXIEHEud1L/view?usp=drive_link)
 
 ## Goal
 
