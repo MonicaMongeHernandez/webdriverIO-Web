@@ -11,11 +11,12 @@
 
 ## Description
 
-This suite of testing was implemented for the automation Web applications, UI testing, and API with the page object model (POM) design pattern and mocha as a test framework using typescript.
+This testing suite was implemented for the automation Web applications, UI testing, and API with page object model (POM) design pattern and mocha as a test framework using typescript.
 
 ### Video link
 
-In the following link, you can find a video that demonstrates the execution, set-up, explanation of the scenarios, results, and more.[Video link](https://drive.google.com/file/d/1nGKwPSnLPr3zGblwDM3rPzXXIEHEud1L/view?usp=drive_link)
+In the following link, you can find a video that shows the set-up, execution, and explanation of the scenarios, results, and more. [Video link]
+(https://drive.google.com/file/d/1nGKwPSnLPr3zGblwDM3rPzXXIEHEud1L/view?usp=drive_link)
 
 ## Goal
 
@@ -33,7 +34,7 @@ Validate an E2E flow and specific UI validations using API for validating broken
 
 ## Scenarios
 
-Two sites were selected to perform the testing. Happy and negative paths were implemented, and in the future, more additions will be made like CI/CD with GitHub actions (file was added - structure -), and integration with BrowserStack. If the test case fails Allure takes a screenshot.
+To perform the testing, 2 sites were selected. Happy and negative paths were implemented, in the future, more additions could be made like CI/CD with GitHub actions (file was added - structure -), and integration with BrowserStack. If the test case fails Allure takes a screenshot.
 
 All the test cases are automated by the scripts.
 
