@@ -43,7 +43,7 @@ Note: The following test cases are as an overview. Consider that in a formal sce
 
 - <strong>URL:</strong> [Sauce page](https://www.saucedemo.com)
 
-- <strong>General objective:</strong> Perform actions with selectors/locators in the DOM, fill out forms, click buttons, do scroll, validate texts, and URLs, use POM, browser actions, use table elements, validate a complete process.
+- <strong>General objective:</strong> Perform actions with selectors/locators in the DOM, fill out forms, click buttons, scroll, validate texts, and URLs, use POM, browser actions, use table elements, validate a complete process.
 
 - <strong>Dynamic parameters used</strong><br>
   In the file "wdio.config":<br>
@@ -82,7 +82,7 @@ Note: The following test cases are as an overview. Consider that in a formal sce
 
 - <strong>URL:</strong> [Qavbox page](https://qavbox.github.io/demo/links)
 
-- <strong>General objective:</strong> <p>validate broken links using node-fetch2 API, open and close Windows browsers pop-ups, perform actions with selectors/locators in the DOM, fill out forms, click buttons, do scroll, validation of shadow DOM selectors nested and difficult to catch in real scenarios.</p>
+- <strong>General objective:</strong> validate broken links using node-fetch2 API, open and close Windows browsers pop-ups, perform actions with selectors/locators in the DOM, fill out forms, click buttons, do scroll, validate shadow DOM selectors nested and difficult to catch in real scenarios.
 
 - <strong>Dynamic parameters used</strong><br>
   In the file "wdio.config":<br>
