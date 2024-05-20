@@ -15,7 +15,7 @@ This suite of testing was implemented for the automation Web applications, UI te
 
 ### Video link
 
-In the following link, you can find a video that demonstrates the execution, set-up, explanation of the scenarios, results, and more.[Video link](https://GitHub-GoogleDrive)
+In the following link, you can find a video that demonstrates the execution, set-up, explanation of the scenarios, results, and more.[Video link](https://drive.google.com/file/d/1nGKwPSnLPr3zGblwDM3rPzXXIEHEud1L/view?usp=drive_link)
 
 ## Goal
 
@@ -163,4 +163,4 @@ _Optional_
   args: ['--headless', '--disable-gpu', '--no-sandbox'],{<br>
   ...
 
-- _Note_: the following video can support the way to perform the execution [Video link](https://GitHub-GoogleDrive).
+- _Note_: the following video can support the way to perform the execution [Video link](https://drive.google.com/file/d/1nGKwPSnLPr3zGblwDM3rPzXXIEHEud1L/view?usp=drive_link).
