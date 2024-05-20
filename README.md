@@ -1,4 +1,4 @@
-<a href="https://webdriver.io/">
+<a href="https://webdriver.io/" target="_blank">
 <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--vkm_jIDa--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_800/https://i.imgur.com/2uWTVHO.png" alt="webdriver.io">
 </a>
 
