@@ -155,7 +155,7 @@ Note: The following test cases are as an overview. Consider that in a formal sce
   `Env=sauce npm run wdio`<br>
 
   _For Qavbox page_<br>
-  `Env=sauce npm run wdio`<br>
+  `Env=qa npm run wdio`<br>
 
   If you execute the above flow and want to execute it again, please delete the allure folders, because it accumulates all the executions. Delete all folders from `...\reports\allure`
 
